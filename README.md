@@ -11,3 +11,7 @@ Data observation :-> Data Preprocessing :-> Model Building :-> Converting to web
 
 
 In Python, the inplace attribute is a parameter that can be used with certain methods to modify a data structure directly, without creating a new copy of the object.
+
+![Screenshot (171)](https://github.com/ankitmnc/Movie_Recommendation/assets/79011400/2217100a-a045-4ce1-9d41-168fad970d83)
+![Screenshot (172)](https://github.com/ankitmnc/Movie_Recommendation/assets/79011400/66c89c8d-e874-4431-ba44-9c67a6f67ed3)
+![Screenshot (173)](https://github.com/ankitmnc/Movie_Recommendation/assets/79011400/063fc39d-1689-4636-99ca-852b42f35625)
